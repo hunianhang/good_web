@@ -1,0 +1,39 @@
+http://www.runoob.com/w3cnote/w3cnote_genre/android
+
+https://www.kernel.org/pub/software/scm/git/docs/
+
+https://github.com/hunianhang/arduino_nufront/releases/download/v20160117/arduino_nufront-20160117.zip
+
+https://github.com/chipKIT32/chipKIT-core/releases/download/v1.1.0/chipkit-core-16778040.master-v1.1.0-14-gefc7212.zip
+
+
+https://github.com/hunianhang/arduino_nufront.git
+
+https://github.com/USER/PROJECT/releases/download/latest/package.zip
+
+https://github.com/hunianhang/arduino_nufront/releases/download/latest/arduino_nufront-master.zip
+
+
+
+1 http://wenku.baidu.com/view/8345c21252d380eb62946d2a	//中文手册
+2 http://wenku.baidu.com/view/bf9b55f3f90f76c661371a4b.html?re=view   
+3 http://wenku.baidu.com/view/990021c850e2524de5187e34.html?re=view
+4 http://wenku.baidu.com/view/658ba0136c175f0e7cd1370d.html
+5 http://wenku.baidu.com/view/a5f12cd77c1cfad6195fa73e.html?re=view#
+6 http://wenku.baidu.com/view/9fe8c1d549649b6648d74777.html
+
+7 https://github.com/bogde/HX711
+
+8 https://codebender.cc/library/HX711#HX711.cpp
+
+
+hc595
+http://www.arduino.cn/thread-4411-1-1.html
+http://www.sweeting.org/mark/blog/2011/11/27/arduino-74hc595-shift-register-and-a-7-segment-led-display
+
+
+github 注册
+
+
+
+
